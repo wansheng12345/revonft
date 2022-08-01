@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="13px" viewBox="0 0 30 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Doc</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0033FF" offset="0%"></stop>
+            <stop stop-color="#F400FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold">
+        <g id="桌面端-HD备份" transform="translate(-871.000000, -71.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <text id="Doc">
+                <tspan x="870.386719" y="83">Doc</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

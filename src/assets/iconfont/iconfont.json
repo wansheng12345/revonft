@@ -1,0 +1,191 @@
+{
+  "id": "2516304",
+  "name": "链言后台",
+  "font_family": "font_family",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21905522",
+      "name": "批次icon",
+      "font_class": "piciicon1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "21905523",
+      "name": "商品icon",
+      "font_class": "shangpinicon1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21905525",
+      "name": "人员管理icon",
+      "font_class": "renyuanguanliicon1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21905526",
+      "name": "企业信息icon",
+      "font_class": "qiyexinxiicon1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "21905527",
+      "name": "首页icon",
+      "font_class": "shouyeicon1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "21905528",
+      "name": "扫码统计icon",
+      "font_class": "saomatongjiicon1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21905529",
+      "name": "物联网设备icon",
+      "font_class": "wulianwangshebeiicon1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "21905530",
+      "name": "个人资料icon",
+      "font_class": "gerenziliaoicon1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21905531",
+      "name": "溯源模版icon",
+      "font_class": "suyuanmobanicon1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21905532",
+      "name": "上链记录icon",
+      "font_class": "shanglianjiluicon1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21905533",
+      "name": "账户安全icon",
+      "font_class": "zhanghuanquanicon1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21905534",
+      "name": "用户分析icon",
+      "font_class": "yonghufenxiicon1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21905599",
+      "name": "品牌商icon",
+      "font_class": "pinpaishangicon1",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "21290049",
+      "name": "商品icon",
+      "font_class": "shangpinicon",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "21290050",
+      "name": "品牌商icon",
+      "font_class": "pinpaishangicon",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21290051",
+      "name": "物联网设备icon",
+      "font_class": "wulianwangshebeiicon",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "21290052",
+      "name": "账户安全icon",
+      "font_class": "zhanghuanquanicon",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "21290053",
+      "name": "溯源模版icon",
+      "font_class": "suyuanmobanicon",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "21290054",
+      "name": "企业信息icon",
+      "font_class": "qiyexinxiicon",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "21290055",
+      "name": "上链记录icon",
+      "font_class": "shanglianjiluicon",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "21290056",
+      "name": "人员管理icon",
+      "font_class": "renyuanguanliicon",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21290057",
+      "name": "首页icon",
+      "font_class": "shouyeicon",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21290058",
+      "name": "个人资料icon",
+      "font_class": "gerenziliaoicon",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "21290059",
+      "name": "批次icon",
+      "font_class": "piciicon",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21290060",
+      "name": "扫码统计icon",
+      "font_class": "saomatongjiicon",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "21290061",
+      "name": "用户分析icon",
+      "font_class": "yonghufenxiicon",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}

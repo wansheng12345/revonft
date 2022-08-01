@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="543px" height="738px" viewBox="0 0 543 738" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 9</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="525" height="720" rx="30"></rect>
+        <filter x="-2.6%" y="-1.9%" width="105.1%" height="103.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.219448276 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-18.000000, -1987.000000)">
+            <g id="编组-9" transform="translate(27.000000, 1996.000000)">
+                <g id="Image备份">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#FFFFFF" stroke-width="9" stroke-linejoin="square" x="4.5" y="4.5" width="516" height="711" rx="30"></rect>
+                    <rect stroke-opacity="0.246627274" stroke="#ADADAD" stroke-width="1.5" stroke-linejoin="square" x="0.75" y="0.75" width="523.5" height="718.5" rx="30"></rect>
+                </g>
+                <path d="M219.399777,717.610442 L244.048916,670.908683 C246.905209,665.496977 252.521907,662.110442 258.641137,662.110442 L523.5,662.110442 L523.5,662.110442 L523.5,687.610442 C523.5,704.178985 510.068542,717.610442 493.5,717.610442 L219.399777,717.610442 L219.399777,717.610442 Z" id="路径-12备份" fill="#FFFFFF"></path>
+                <polygon id="矩形" fill="#FFB203" points="249.825708 685.661673 252.824346 685.661673 247.384884 696 244.386247 696"></polygon>
+                <polygon id="矩形备份-6" fill="#ED1B1B" points="255.822984 685.661673 258.821621 685.661673 253.38216 696 250.383522 696"></polygon>
+                <polygon id="矩形备份-7" fill="#4232DB" points="261.820259 685.661673 264.818897 685.661673 259.379435 696 256.380797 696"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="478px" viewBox="0 0 348 478" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 12</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="348" height="478" rx="16"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-18.000000, -3662.000000)">
+            <g id="编组-12" transform="translate(18.000000, 3662.000000)">
+                <g id="Image备份" stroke-linejoin="square">
+                    <rect stroke="#FFFFFF" stroke-width="5" x="2.5" y="2.5" width="343" height="473" rx="16"></rect>
+                    <rect stroke-opacity="0.246627274" stroke="#777777" stroke-width="1" x="0.5" y="0.5" width="347" height="477" rx="16"></rect>
+                </g>
+                <path d="M145.430709,476.413599 L162.372254,444.265156 C163.894703,441.376142 166.891789,439.567766 170.157406,439.567766 L347.005714,439.567766 L347.005714,439.567766 L347.005714,460.413599 C347.005714,469.250155 339.84227,476.413599 331.005714,476.413599 L145.430709,476.413599 L145.430709,476.413599 Z" id="路径-12备份" fill="#FFFFFF"></path>
+                <polygon id="矩形" fill="#FFB203" points="166.34447 455.203167 168.332138 455.203167 164.726552 462.066667 162.738883 462.066667"></polygon>
+                <polygon id="矩形备份-6" fill="#ED1B1B" points="170.319806 455.203167 172.307475 455.203167 168.701889 462.066667 166.71422 462.066667"></polygon>
+                <polygon id="矩形备份-7" fill="#4232DB" points="174.295143 455.203167 176.282812 455.203167 172.677226 462.066667 170.689557 462.066667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

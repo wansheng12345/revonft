@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "font_family"; /* Project id 2516304 */
+  src: url('iconfont.woff2?t=1622443452378') format('woff2'),
+       url('iconfont.woff?t=1622443452378') format('woff'),
+       url('iconfont.ttf?t=1622443452378') format('truetype');
+}
+
+.iconfont {
+ font-family: "font_family" !important;
+ font-size: 20px;
+ font-style: normal;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+
+.font_family {
+ font-family: "font_family" !important;
+ font-size: 20px;
+ font-style: normal;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-piciicon1:before {
+  content: "\e613";
+}
+
+.icon-shangpinicon1:before {
+  content: "\e614";
+}
+
+.icon-renyuanguanliicon1:before {
+  content: "\e615";
+}
+
+.icon-qiyexinxiicon1:before {
+  content: "\e616";
+}
+
+.icon-shouyeicon1:before {
+  content: "\e617";
+}
+
+.icon-saomatongjiicon1:before {
+  content: "\e618";
+}
+
+.icon-wulianwangshebeiicon1:before {
+  content: "\e619";
+}
+
+.icon-gerenziliaoicon1:before {
+  content: "\e61a";
+}
+
+.icon-suyuanmobanicon1:before {
+  content: "\e61b";
+}
+
+.icon-shanglianjiluicon1:before {
+  content: "\e61c";
+}
+
+.icon-zhanghuanquanicon1:before {
+  content: "\e61d";
+}
+
+.icon-yonghufenxiicon1:before {
+  content: "\e61e";
+}
+
+.icon-pinpaishangicon1:before {
+  content: "\e61f";
+}
+
+.icon-shangpinicon:before {
+  content: "\e606";
+}
+
+.icon-pinpaishangicon:before {
+  content: "\e607";
+}
+
+.icon-wulianwangshebeiicon:before {
+  content: "\e608";
+}
+
+.icon-zhanghuanquanicon:before {
+  content: "\e609";
+}
+
+.icon-suyuanmobanicon:before {
+  content: "\e60a";
+}
+
+.icon-qiyexinxiicon:before {
+  content: "\e60b";
+}
+
+.icon-shanglianjiluicon:before {
+  content: "\e60c";
+}
+
+.icon-renyuanguanliicon:before {
+  content: "\e60d";
+}
+
+.icon-shouyeicon:before {
+  content: "\e60e";
+}
+
+.icon-gerenziliaoicon:before {
+  content: "\e60f";
+}
+
+.icon-piciicon:before {
+  content: "\e610";
+}
+
+.icon-saomatongjiicon:before {
+  content: "\e611";
+}
+
+.icon-yonghufenxiicon:before {
+  content: "\e612";
+}
+

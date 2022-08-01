@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 14备份 4</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-190.000000, -545.000000)">
+            <g id="编组-14备份-4" transform="translate(190.000000, 545.000000)">
+                <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+                <g id="编组-2备份-6" transform="translate(6.000000, 6.000000)">
+                    <circle id="椭圆形" cx="10" cy="10" r="10"></circle>
+                    <g id="编组" transform="translate(5.000000, 1.666667)">
+                        <polygon id="矩形" fill="#4B4761" points="0 8.71420022 5 0 5 11.668717"></polygon>
+                        <polygon id="矩形备份-2" fill="#ADA9B4" transform="translate(7.500000, 5.834359) scale(-1, 1) translate(-7.500000, -5.834359) " points="5 8.71420022 10 0 10 11.668717"></polygon>
+                        <polygon id="矩形" fill="#282137" points="0 8.71420022 5 6.47971834 5 11.668717"></polygon>
+                        <polygon id="矩形备份-3" fill="#544F60" transform="translate(7.500000, 9.074218) scale(-1, 1) translate(-7.500000, -9.074218) " points="5 8.71420022 10 6.47971834 10 11.668717"></polygon>
+                        <polygon id="矩形备份" fill="#514B5C" transform="translate(2.500000, 13.228261) scale(-1, -1) translate(-2.500000, -13.228261) " points="0 13.7121499 0 9.7898558 5 16.6666667"></polygon>
+                        <polygon id="矩形备份-4" fill="#B1ACB4" transform="translate(7.500000, 13.228261) scale(1, -1) translate(-7.500000, -13.228261) " points="5 13.7121499 5 9.7898558 10 16.6666667"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 14备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-190.000000, -455.000000)">
+            <g id="编组-14备份-2" transform="translate(190.000000, 455.000000)">
+                <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+                <g id="编组-13" transform="translate(2.000000, 2.000000)">
+                    <g id="编组-2备份-5" opacity="0.487118676">
+                        <circle id="椭圆形" cx="14" cy="14" r="14"></circle>
+                        <g id="编组" transform="translate(7.000000, 3.000000)">
+                            <polygon id="矩形" fill="#4B4761" points="0 12.0255963 7 0 7 16.1028295"></polygon>
+                            <polygon id="矩形备份-2" fill="#ADA9B4" transform="translate(10.500000, 8.051415) scale(-1, 1) translate(-10.500000, -8.051415) " points="7 12.0255963 14 0 14 16.1028295"></polygon>
+                            <polygon id="矩形" fill="#282137" points="0 12.0255963 7 8.9420113 7 16.1028295"></polygon>
+                            <polygon id="矩形备份-3" fill="#544F60" transform="translate(10.500000, 12.522420) scale(-1, 1) translate(-10.500000, -12.522420) " points="7 12.0255963 14 8.9420113 14 16.1028295"></polygon>
+                            <polygon id="矩形备份" fill="#514B5C" transform="translate(3.500000, 18.255001) scale(-1, -1) translate(-3.500000, -18.255001) " points="0 18.9227668 0 13.510001 7 23"></polygon>
+                            <polygon id="矩形备份-4" fill="#B1ACB4" transform="translate(10.500000, 18.255001) scale(1, -1) translate(-10.500000, -18.255001) " points="7 18.9227668 7 13.510001 14 23"></polygon>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(10.000000, 9.000000)">
+                        <polygon id="Fill-1" fill="#B0A9B7" points="6.30256852 9.33777861 5.0418214 8.69683415 5.04447642 7.35291335 6.30522354 7.99385781"></polygon>
+                        <polygon id="Fill-2" fill="#B0A9B7" points="6.31001917 5.588008 5.04927205 4.94706354 5.05867524 0.22069911 6.31942237 0.861695259"></polygon>
+                        <polygon id="Fill-3" fill="#2D213D" points="6.73923628 0 5.05866418 0.220730126 6.3194113 0.861674582 7.99998341 0.640944456"></polygon>
+                        <polygon id="Fill-4" fill="#B2A9B8" points="6.30524014 7.99385264 5.04449301 7.35290818 1.68998636 4.40437759 2.9507888 5.04532205"></polygon>
+                        <polygon id="Fill-5" fill="#4C4763" points="6.3194279 0.861669412 6.3100247 5.58798215 2.95551805 2.64394887 2.95822838 1.30312966 1.27760097 1.52391148 1.26078584 10 2.94135795 9.77921818 2.95076114 5.04530654 6.30521248 7.99383713 6.30255746 9.33775793 7.98318488 9.1170795 8 0.640939287"></polygon>
+                        <polygon id="Fill-6" fill="#B0A9B7" points="0 9.3590297 1.26074713 9.99997415 1.27761756 1.52388564 0.0168151242 0.88294118"></polygon>
+                        <polygon id="Fill-7" fill="#2D213D" points="0.0168261868 0.882930841 1.27757331 1.5238753 2.95820073 1.30314517 1.6974536 0.662200716"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

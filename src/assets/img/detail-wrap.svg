@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="506px" height="688px" viewBox="0 0 506 688" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="490" height="672" rx="28"></rect>
+        <filter x="-2.4%" y="-1.8%" width="104.9%" height="103.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="8" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.219448276 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="活动-平局" transform="translate(-352.000000, -161.000000)">
+            <g id="编组-4" transform="translate(360.000000, 169.000000)">
+                <g id="Image备份">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#FFFFFF" stroke-width="8" stroke-linejoin="square" x="4" y="4" width="482" height="664" rx="28"></rect>
+                </g>
+                <path d="M204.773125,669.769746 L227.778989,626.181438 C230.444862,621.130512 235.687114,617.969746 241.398395,617.969746 L488.6,617.969746 L488.6,617.969746 L488.6,641.769746 C488.6,657.233719 476.063973,669.769746 460.6,669.769746 L204.773125,669.769746 L204.773125,669.769746 Z" id="路径-12备份" fill="#FFFFFF"></path>
+                <polygon id="矩形" fill="#FFB203" points="233.170661 639.950895 235.96939 639.950895 230.892559 649.6 228.09383 649.6"></polygon>
+                <polygon id="矩形备份-6" fill="#ED1B1B" points="238.768118 639.950895 241.566847 639.950895 236.490016 649.6 233.691287 649.6"></polygon>
+                <polygon id="矩形备份-7" fill="#4232DB" points="244.365575 639.950895 247.164304 639.950895 242.087473 649.6 239.288744 649.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
